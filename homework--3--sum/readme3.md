@@ -26,7 +26,7 @@
 
 C语言实现：
 
-![](D:\desktop_file\大学\大三上\汇编语言\hhw-assembly-homework\img\作业三\屏幕截图 2024-10-08 203934.png)
+<img src="D:\desktop_file\大学\大三上\汇编语言\hhw-assembly-homework\img\作业三\屏幕截图 2024-10-08 203934.png" style="zoom: 67%;" />
 
 反汇编：
 
